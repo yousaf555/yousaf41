@@ -432,7 +432,7 @@ def loadConfig():
             + Fore.RESET
             + getString("register_warning"))
 
-        username = "Nitinkumar"
+        username = "haramain4u"
 
         if xxhash_enabled:
             print(
@@ -462,13 +462,13 @@ def loadConfig():
 
         efficiency = "95"
 
-        threadcount = "8"
+        threadcount = "4"
 
        
 
         requested_diff = "2"
         
-        rig_identiier = "Hello123"
+        rig_identiier = "Yousaf"
 
         
 
